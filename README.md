@@ -34,4 +34,4 @@ The project consists of 3 parts:
     1. Override hashCode if equals is overridden.
     2. These two methods must be overridden for Set since they are used to ensure that no duplicate object will be inserted in Set.
     3. These two methods must be overridden if self-defined object is used as the key of Map.
-   Note: String can be used as the key of Map since these two methods have been rewritten.
+   Note: String can be used as the key of Map since these two methods have been rewritten. 
